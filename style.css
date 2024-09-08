@@ -298,7 +298,7 @@ a{
     font-size: 0.75rem;
 }
 
-@media (max-width:500px){
+@media (max-width:540px){
     .hidden{
         display: none;
     }
